@@ -4,21 +4,20 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+Scalable+Full+Stack+Applications;Engineering+AI-Powered+Product+Experiences;Solving+DSA+Problems+with+Java;Designing+Reliable+and+User-Focused+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+Scalable+Full+Stack+Applications;Engineering+AI-Powered+Product+Experiences;Solving+DSA+Problems+with+Java;" alt="Typing SVG" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/B.Tech%20CSE-Galgotias%20University-334155?style=flat-square&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/CGPA-8.7-334155?style=flat-square&logo=googlescholar&logoColor=white" />
 <img src="https://img.shields.io/badge/Batch-2023--2027-334155?style=flat-square&logo=graduationcap&logoColor=white" />
 <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-334155?style=flat-square&logo=googlemaps&logoColor=white" />
 
 <br/><br/>
 
-<a href="https://github.com/Manaskr88">
+<a href="https://linktr.ee/manaskr88">
   <img src="https://img.shields.io/badge/Portfolio-334155?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
 </a>
-<a href="https://www.linkedin.com/in/manas-kumar">
+<a href="https://www.linkedin.com/in/manas-kumar3132/">
   <img src="https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
 </a>
 <a href="mailto:manaspvt8@gmail.com">
@@ -29,10 +28,6 @@
 </a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Manaskr88&label=Profile%20Views&color=334155&style=flat-square" />
-<img src="https://img.shields.io/github/followers/Manaskr88?label=Followers&style=flat-square&color=334155&logo=github&logoColor=white" />
-<img src="https://img.shields.io/github/stars/Manaskr88?label=Stars&style=flat-square&color=334155&logo=github&logoColor=white" />
 
 </div>
 
@@ -106,7 +101,6 @@ A full stack AI-powered platform designed to help developers, students, and buil
 | Performance | Optimized frontend structure, reusable components, efficient API flows, and responsive UI behavior |
 | Security | JWT-based authentication, protected routes, secure backend APIs, and role-aware access control |
 | Impact | Helps users discover compatible teammates, analyze skill gaps, and collaborate on projects more effectively |
-| Repository | [View Repository](https://github.com/Manaskr88) |
 
 TeamForge reflects a strong product engineering mindset by combining full stack architecture with AI-assisted decision-making. The platform focuses on solving a practical collaboration problem by recommending teammates, analyzing missing skills, supporting project applications, and enabling communication after acceptance.
 
@@ -168,11 +162,13 @@ CryptoHub showcases API integration, responsive frontend development, state opti
 <a href="https://auth.geeksforgeeks.org/user/Manaskr88">
   <img src="https://img.shields.io/badge/GeeksforGeeks-334155?style=for-the-badge&logo=geeksforgeeks&logoColor=FFFFFF" />
 </a>
-<a href="https://www.hackerrank.com/Manaskr88">
-  <img src="https://img.shields.io/badge/HackerRank-334155?style=for-the-badge&logo=hackerrank&logoColor=FFFFFF" />
-</a>
+
 <a href="https://www.codechef.com/users/Manaskr88">
   <img src="https://img.shields.io/badge/CodeChef-334155?style=for-the-badge&logo=codechef&logoColor=FFFFFF" />
+</a>
+
+<a href="https://codolio.com/profile/Manaskr88">
+  <img src="https://img.shields.io/badge/Codolio-334155?style=for-the-badge&logo=codechef&logoColor=FFFFFF" />
 </a>
 
 </div>
@@ -184,13 +180,13 @@ CryptoHub showcases API integration, responsive frontend development, state opti
 <a href="mailto:manaspvt8@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-334155?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
 </a>
-<a href="https://www.linkedin.com/in/manas-kumar">
+<a href="https://www.linkedin.com/in/manas-kumar3132/">
   <img src="https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
 </a>
 <a href="https://github.com/Manaskr88">
   <img src="https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
-<a href="https://github.com/Manaskr88">
+<a href="https://linktr.ee/manaskr88">
   <img src="https://img.shields.io/badge/Portfolio-334155?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
 </a>
 
